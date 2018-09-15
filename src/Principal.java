@@ -3,7 +3,6 @@
  * Implementação de exemplo que utiliza Scanner para construir um menu de opções com submenu.
  */
 import java.util.Scanner;
-import javax.swing.JOptionPane;
 
 public class Principal {
 
